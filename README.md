@@ -19,3 +19,6 @@ Tache:
 -Maya: Monstres divers et varié (et movible)
 
 -Darina: S'ocuppe du décore de l'histoire 
+
+Story:
+Steve est un humain qui aime sa famille et les avions. Il devi
