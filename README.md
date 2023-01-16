@@ -21,4 +21,4 @@ Tache:
 -Darina: S'ocuppe du décore de l'histoire 
 
 Story:
-Steve est un humain qui aime sa famille et les avions. Il devi
+Steve est un humain qui aime sa famille et les avions. Il devient pilote de chasse et il a un chinchilla et 2 enfants et est celibataire.
