@@ -15,11 +15,11 @@ Il affronte un boss pour sauver sa planète
 
 Tache:
 
--ADEM: Faite l'avion et le systeme d'arme et upgrade
+- ADEM: Faite l'avion et le systeme d'arme et upgrade
 
--Maya: Monstres divers et varié (et movible)
+- Maya: Monstres divers et varié (et movible)
 
--Darina: S'ocuppe du décore de l'histoire 
+- Darina: S'ocuppe du décore de l'histoire 
 
 type de vue:
 - 3eme personne
