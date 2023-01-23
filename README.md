@@ -22,7 +22,7 @@ Tache:
 -Darina: S'ocuppe du décore de l'histoire 
 
 type de vue:
--3eme personne
+- 3eme personne
 
 armes:
 
