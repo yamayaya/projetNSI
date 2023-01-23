@@ -25,7 +25,9 @@ type de vue:
 - 3eme personne
 
 armes:
-
+- combien d'armes?
+- comment gérer les upgrades (il faut collectionner un certain nombre d'objets pour pouvoir changer d'arme ou c'est juste une arme qui drop de temps en temps d'un monstre?) ?
+- 1 seule arme ou peut on choisir entre tout ce qui a été gagné?
 
 
 avion:
