@@ -25,7 +25,7 @@ type de vue:
 -3eme personne
 
 armes:
--
+
 
 
 avion:
