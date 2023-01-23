@@ -8,7 +8,7 @@ Objectifs:
 Faire un jeu avec un avion qui va tuer des monstres divers dans l'espace
 Il affronte un boss pour sauver sa planète
 >Soit il se sacrifie et sauve sa planète 
->Soit il se sacrifie pas mais sa pianeti explose
+>Soit il se sacrifie pas mais sa pianete explose
 
 
 
