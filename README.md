@@ -26,8 +26,8 @@ type de vue:
 
 armes:
 - combien d'armes?
-- comment gérer les upgrades (il faut collectionner un certain nombre d'objets pour pouvoir changer d'arme ou c'est juste une arme qui drop de temps en temps d'un monstre?) ?
-- 1 seule arme ou peut on choisir entre tout ce qui a été gagné?
+- comment gérer les upgrades (il faut collectionner un certain nombre d'objets pour pouvoir changer d'arme ou c'est juste une arme qui drop de temps en temps d'un monstre?) ? Les armes droperon sur tout les boss et mini boss et on devra fair un choix entre plusieur arme selon les gout et facon de jouer de l'utilisateur. Certaine arme nous rallentiron mais feron plus de dégat alors que d'autre augmentra la vitesse mais feront moins de dégat. Je pense aussi inclure un bonus de set et de combot il y'aura 5 type d'arme: un qui tire en avant, une arme de defense, des missiles, de mele, et une de fuite.
+- 1 seule arme ou peut on choisir entre tout ce qui a été gagné? Plusieur type d'arme varié et efficasse sur certain monstre et d'autre non 
 
 
 avion:
