@@ -6,7 +6,6 @@ if __name__ == "__main__":
  # ne pas modifier
  pyxel.init(128, 128, title="Nuit du c0de")
  t1 = time.time()
- n = 0
  # position initiale du vaisseau
  # (origine des positions : coin haut gauche)
  vaisseau_x = 60
@@ -66,7 +65,7 @@ if __name__ == "__main__":
   """création aléatoire des ennemis"""
 
   # un ennemi par seconde
-  if (pyxel.frame_count % 30 == 0):
+  if (pyxel.frame_count % random.randint(40, 60) == 0):
    ennemis_liste.append([random.randint(0, 120), 0])
   return ennemis_liste
 
@@ -179,9 +178,12 @@ if __name__ == "__main__":
    # ennemis
    t2 = time.time()
    for ennemi in ennemis_liste:
-    if t2-t1 >= 120 and n == 0:
-     pyxel.rect(ennemi[0], ennemi[1], 16, 16, 8)
-    
+    if t2-t1 >= 60 + random.randint(0,10):
+     pyxel.rect(ennemi[0], ennemi[1], 10, 10, 8)
+    elif t2-t1 >= 120  + random.randint(0,10):
+     pyxel.rect(ennemi[0], ennemi[1], 12, 12, 8)
+    elif t2-t1 >= 180  + random.randint(0,10):
+     pyxel.rect(ennemi[0], ennemi[1], 15, 15, 8)
     pyxel.rect(ennemi[0], ennemi[1], 8, 8, 8)
 
    # explosions (cercles de plus en plus grands)
