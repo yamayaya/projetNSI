@@ -1,8 +1,4 @@
 import pyxel, random, time
-from Utilitaire import Utilitaire
-
-from Game import Game
-
 if __name__ == "__main__":
  # on rajoute random
 
