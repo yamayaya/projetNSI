@@ -5,7 +5,8 @@ if __name__ == "__main__":
  # taille de la fenetre 128x128 pixels
  # ne pas modifier
  pyxel.init(128, 128, title="Nuit du c0de")
-
+ t1 = time.time()
+ n = 0
  # position initiale du vaisseau
  # (origine des positions : coin haut gauche)
  vaisseau_x = 60
@@ -176,7 +177,11 @@ if __name__ == "__main__":
     pyxel.rect(tir[0], tir[1], 1, 4, 10)
 
    # ennemis
+   t2 = time.time()
    for ennemi in ennemis_liste:
+    if t2-t1 >= 120 and n == 0:
+     pyxel.rect(ennemi[0], ennemi[1], 16, 16, 8)
+    
     pyxel.rect(ennemi[0], ennemi[1], 8, 8, 8)
 
    # explosions (cercles de plus en plus grands)
